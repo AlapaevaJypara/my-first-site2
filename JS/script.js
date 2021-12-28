@@ -1,0 +1,13 @@
+alert("Я начинаю изучать JS");
+console.log("Мое первое сообщение в консоли");
+document.write("<h1>Привет!</h1> <h2>Это мой первый скрипт!</h2>");
+console.log("Жыпара"+"Алапаева");
+console.log(100 + 100);
+document.write("<p> Вычитание!</p>");
+document.write("200 - 100 = " + (200 - 100)); 
+document.write("<p> Сложение!</p>");
+document.write("200 + 100 = " + (200 + 100)); 
+document.write("<p> Деление!</p>");
+document.write("200 / 100 = " + (200 / 100)); 
+document.write("<p> Умножение!</p>");
+document.write("200 * 100 = " + (200 * 100)); 
